@@ -27,11 +27,10 @@ Uygulama, [OpenWeatherMap API](https://openweathermap.org/api) üzerinden anlık
 
 ## 📸 Uygulama Görselleri
 
-Ana ekran görünümü:
-![Ana Ekran](./screenshots/home.png)
+![Gorsel-1](.images/image-1.png)
+![Gorsel-2](images/image-2.png)
+![Gorsel-3](images/image-3.png)
 
-Detay sayfası:
-![Detay Ekranı](./screenshots/details.png)
 
 ---
 
